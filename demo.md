@@ -1,57 +1,104 @@
-# PITC Revealjs Theme
+# DataDog
 
-* Item 1
-* Item 2
-* Item 3
+Es Ruby-Käfeli.
 
 <!-- .slide: class="master01" -->
 
 ---
 
-# First Topic
+![](1_weal_push.png)
+
+<!-- .slide: class="master02" -->
+
+---
+
+# Agenda
+
+* Was ist es
+* Wie funktionierts
+* Unsere Erfahrungen
+* Austausch
+
+<!-- .slide: class="master02" -->
+
+---
+
+
+# Aber was?
 
 <!-- .slide: class="master02 intro" -->
 
 ---
 
-# Slide 2
-
-Lorem ipsum.
+![](2_einordnung.svg)
 
 <!-- .slide: class="master02" -->
 
-----
+---
 
-## Vertical Slide
+# Aber wie?
 
-Lorem ipsum
+<!-- .slide: class="master03 intro" -->
+
+---
+
+![](3_code.png)
+
+* Namespaces
+* Tags
+* [Verschiedene Datentypen](http://docs.datadoghq.com/guides/metrics/)
+
+<!-- .slide: class="master03" -->
+
+
+---
+
+![](3_integrations.png)
 
 <!-- .slide: class="master03" -->
 
 ---
 
-# Second Topic
+![](3_overview.svg)
 
-<!-- .slide: class="master04 intro" -->
+<!-- .slide: class="master03" -->
 
 ---
 
-# Slide 3
-
-Lorem _ipsum_.
+# Erfahrungen
 
 <!-- .slide: class="master04" -->
 
 ---
 
-# Third Topic
+![](4_events.png)
+
 
 <!-- .slide: class="master04 intro" -->
 
 ---
 
-# Slide 4
+[Performance Dashboard](https://app.datadoghq.com/dash/175417/system-load--performance?live=true&page=0&is_auto=false&from_ts=1480573276877&to_ts=1480576876877&tile_size=m&tpl_var_host=wet-le00)
 
-Lorem _ipsum_.
+
+<!-- .slide: class="master04 intro" -->
+
+---
+
+[Job Dashboard](https://app.datadoghq.com/dash/147203/job-performance?live=true&page=0&is_auto=false&from_ts=1479972053437&to_ts=1480576853437&tile_size=m&tpl_var_env=wet-le04)
+
+<!-- .slide: class="master04 intro" -->
+
+---
+
+![](4_monitor.png)
+
+<!-- .slide: class="master04 intro" -->
+
+---
+
+Merci.
+
+# Diskussion / ab i Mittag
 
 <!-- .slide: class="master04" -->
